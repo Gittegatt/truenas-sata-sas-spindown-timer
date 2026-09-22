@@ -343,3 +343,19 @@ The upstream `ngandrass/truenas-spindown-timer` project is distributed under the
 If code from the upstream project is copied or adapted in this repository, retain the applicable upstream copyright and MIT license notice as required by that license.
 
 The Ark patch is a separate external community modification. Refer to the original forum post for its source, warnings, and current compatibility information.
+
+## AI Notice
+
+AI-assisted coding tools were used during the development of this project.
+
+Use of this source code, including for AI or machine-learning training, fine-tuning, dataset creation, and model improvement, is subject to the terms of the MIT License.
+
+This notice does not impose any additional restrictions, does not apply to third-party material beyond its respective terms, and does not override applicable statutory rights or exceptions.
+
+## ☕ Support the project
+
+If you enjoy the project and would like to support its development, a small contribution is always appreciated.
+
+[Support me on Ko-fi](https://ko-fi.com/gittegatt)
+
+[Support me on buymeacoffee](https://buymeacoffee.com/gittegatt)
