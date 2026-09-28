@@ -356,6 +356,6 @@ This notice does not impose any additional restrictions, does not apply to third
 
 If you enjoy the project and would like to support its development, a small contribution is always appreciated.
 
-[Star MarbleScape on GitHub](https://github.com/Gittegatt/truenas-sata-sas-spindown-timer)
+[Star on GitHub](https://github.com/Gittegatt/truenas-sata-sas-spindown-timer)
 
-[Support MarbleScape on Ko-fi](https://ko-fi.com/gittegatt)
+[Support on Ko-fi](https://ko-fi.com/gittegatt)
